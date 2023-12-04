@@ -1,6 +1,6 @@
 [
     {
-        "Name":"Community Questions",
+        "Name":"Community",
         "Questions":[
             {
                 "Question":"What is Freespace?",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "Name":"Gameplay Questions",
+        "Name":"Gameplay",
         "Questions":[
             {
                 "Question":"How do I play with shiny new models and textures?",
@@ -46,7 +46,7 @@
             },
             {
                 "Question":"Does FSO support VR?",
-                "Answer":"Limited VR support via OpenXR is in the works, and test builds are available here on knossos under “Custom Builds”."
+                "Answer":"Limited VR support via OpenXR is slated for FSO 24.0. Until then, test builds are available here on knossos in the Engine tab under “Custom Builds”."
             },
             {
                 "Question":"What order should I play FSO mods in?",
@@ -54,20 +54,20 @@
             },
             {
                 "Question":"Can I play as a capital ship?",
-                "Answer":"There are mods with capital ship command missions.  The Blade Itself, part of Blue Planet Complete, and Blue Planet: The Battle Captains are two places where capital ship command missions can be played."
+                "Answer":"There are mods with capital ship command missions, but they are not as common.  The Blade Itself, part of Blue Planet Complete, and Blue Planet: The Battle Captains are two mods where capital ship command missions can be played."
             },
             {
                 "Question":"Why are there so many controls?  Do I need to learn all of them?  Why do some mods not have all of them?",
-                "Answer":"As an older PC simulation game, there are a lot of controls that were added to allow players to play with different play styles.  You do not need to learn all of the controls, but knowing more of the targeting controls, communication shortcuts, and power transfer controls can help in higher difficulties.  Mods can disable unneeded controls to simply gameplay."
+                "Answer":"As an older PC simulation game, there are a lot of controls that were added to allow players to play with different play styles.  You do not need to learn all of the controls, but knowing more of the targeting controls, communication shortcuts, and power transfer controls can help when playing on higher difficulties.  Mods can disable unneeded controls to simplify gameplay."
             }
         ]
     },
     {
-        "Name":"Modding and Mission Creation Questions",
+        "Name":"Modding and Mission Creation",
         "Questions":[
             {
                 "Question":"What can FSO be used for?",
-                "Answer":"FSO can be used to create almost any type of game through our scripting library, but it is best suited for creating flight and space simulations."
+                "Answer":"FSO can be used to create almost any type of game through our scripting library, but it is best suited for creating space and flight simulations."
             },
             {
                 "Question":"How do I make missions and campaigns?",
@@ -83,7 +83,7 @@
             },
             {
                 "Question":"What are sexps?",
-                "Answer":"Sexps are symbolic expressions, the original mission and campaign action language.  They are lisp-like.  Sexps are very powerful, and their features include variables and containers."
+                "Answer":"Sexps are symbolic expressions, the original mission and campaign action language.  Sexps are lisp-like and very powerful. You can also define custom variables and containers with them."
             },
             {
                 "Question":"What is FSO LUA?",
@@ -95,7 +95,7 @@
             },
             {
                 "Question":"What are FSO’s model file formats?",
-                "Answer":"We use a formerly proprietary model file format called POF, or Parallax Object Format.  It can be edited with POF Tools, which supports gltf and dae export."
+                "Answer":"We use a custom model file format called POF, or Parallax Object Format.  It can be edited with POF Tools, which supports gltf and dae export."
             },
             {
                 "Question":"What are FSO’s sound file formats?",
@@ -107,11 +107,11 @@
             },
             {
                 "Question":"What are FSO’s animation and video file formats?",
-                "Answer":".mve .msb .ogg .mp4 .srt .webm .png (apng) are all valid video files for FSO. We support apng files if their extension is .png.  .eff can also be used and is a special kind of “image format” which uses a set of regular images and creates an animation from them."
+                "Answer":".mve .msb .ogg .mp4 .srt .webm .png (apng) are all valid video files for FSO. We support apng files if their extension is .png.  .eff can also be used and is a special kind of 'animation' format which uses a set of regular images and a text file to create an animation ."
             },
             {
                 "Question":"Does FSO support model animations?",
-                "Answer":"Yes, animations are supported via the animation table file format.  We support rotation, translation and IK animations.  We do not support mesh deformation.  Please see the geomod question below."
+                "Answer":"Yes, animations are supported via the animation table.  We support rotation, translation and IK animations.  We do not support mesh deformation."
             }
         ]
     }
