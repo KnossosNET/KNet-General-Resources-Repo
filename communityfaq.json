@@ -1,0 +1,119 @@
+[
+    {
+        "Name":"Community Questions",
+        "Questions":[
+            {
+                "Question":"What is Freespace?",
+                "Answer":"Freespace is a short series of video games created by Volition.  The source code for the second game was released in 2003 and has been worked on ever since."
+            },
+            {
+                "Question": "What is FSO?",
+                "Answer": "FSO stands for FreeSpace Open, the open source branch of the original source code released by Volition when they realized they wouldn’t be able to make another Freespace game."
+            },
+            {
+                "Question": "Do I need to buy Freespace to play?",
+                "Answer": "Mods based on Freespace’s retail data, like the MediaVPs, require a copy of Freespace 2 to function, which can be purchased via Gog or Steam. Total Conversions (TCs) can be played without retail Freespace files."
+            },
+            {
+                "Question":"Why is this launcher called Knossos?",
+                "Answer":"Knossos is the name of something plot related in the Freespace games."
+            },
+            {
+                "Question":"What happened to old Knossos?",
+                "Answer":"There were some fundamental issues in the manner it was implemented.  In the end, ShivanSPS created Knossos.NET (KNet for short) to replace it as a project to learn Avalonia UI and provide a new launcher for us."
+            
+            },
+            {
+                "Question":"What is PXO?",
+                "Answer":"PXO is a multiplayer matchmaking service.  It stands for Parallax Online and is modeled after the original Parallax Online created by Parallax the predecessor of Volition and Outrage."
+            }
+        ]
+    },
+    {
+        "Name":"Gameplay Questions",
+        "Questions":[
+            {
+                "Question":"How do I play with shiny new models and textures?",
+                "Answer":"The upgraded models and textures are in the FSPort MediaVPs and MediaVPs mods."
+            },
+            {
+                "Question":"What is a Total Conversion?",
+                "Answer":"A Total Conversion is a mod that is a standalone game based on the FSO engine.  These can be fan games or original universes.  Examples include Diaspora, Star Fox: Event Horizon, and Wings of Dawn.  Their play style can vary wildly from Retail Freespace 2."
+            },
+            {
+                "Question":"What controllers does FSO support?  How many can be used at once?",
+                "Answer":"FSO can support almost all joysticks and gamepads.  Console controllers, however, often have unresolved issues.  Up to 4 controllers can be connected at once."
+            },
+            {
+                "Question":"Does FSO support VR?",
+                "Answer":"Limited VR support via OpenXR is in the works, and test builds are available here on knossos under “Custom Builds”."
+            },
+            {
+                "Question":"What order should I play FSO mods in?",
+                "Answer":"Freespace Port (Freespace 1) and Freespace 2 are a good place to start, since they are designed to be accessible to new players and have good training missions.  After that we recommend asking the community on our discord.  We can provide recommendations based on what type of campaign you want to play."
+            },
+            {
+                "Question":"Can I play as a capital ship?",
+                "Answer":"There are mods with capital ship command missions.  The Blade Itself, part of Blue Planet Complete, and Blue Planet: The Battle Captains are two places where capital ship command missions can be played."
+            },
+            {
+                "Question":"Why are there so many controls?  Do I need to learn all of them?  Why do some mods not have all of them?",
+                "Answer":"As an older PC simulation game, there are a lot of controls that were added to allow players to play with different play styles.  You do not need to learn all of the controls, but knowing more of the targeting controls, communication shortcuts, and power transfer controls can help in higher difficulties.  Mods can disable unneeded controls to simply gameplay."
+            }
+        ]
+    },
+    {
+        "Name":"Modding and Mission Creation Questions",
+        "Questions":[
+            {
+                "Question":"What can FSO be used for?",
+                "Answer":"FSO can be used to create almost any type of game through our scripting library, but it is best suited for creating flight and space simulations."
+            },
+            {
+                "Question":"How do I make missions and campaigns?",
+                "Answer":"Missions can be created in Fred, our mission editor, and hopefully in the future with qtFRED.  The mission file is also in text format, so experienced mission creators can make edits to existing missions by hand, when needed."
+            },
+            {
+                "Question":"What is Fred?",
+                "Answer":"Fred is the FReespace EDitor, used in making missions and campaigns for the Freespace Open Engine.  It is based on the original mission editor designed by Volition."
+            },
+            {
+                "Question":"What is qtFred?",
+                "Answer":"qtFred is an in-development rewrite of Fred using the cross-platform qt framework.  It is about halfway complete."
+            },
+            {
+                "Question":"What are sexps?",
+                "Answer":"Sexps are symbolic expressions, the original mission and campaign action language.  They are lisp-like.  Sexps are very powerful, and their features include variables and containers."
+            },
+            {
+                "Question":"What is FSO LUA?",
+                "Answer":"Our engine’s scripts are written in Lua, and it can be used to greatly increase the capabilities of the engine without waiting for native code support."
+            },
+            {
+                "Question":"Does FSO support planet side missions?",
+                "Answer":"First of all, with scripting all things are possible, so write that down. There are some mods with ground levels or levels with a planet landscape, but they generally require much more work to finish."
+            },
+            {
+                "Question":"What are FSO’s model file formats?",
+                "Answer":"We use a formerly proprietary model file format called POF, or Parallax Object Format.  It can be edited with POF Tools, which supports gltf and dae export."
+            },
+            {
+                "Question":"What are FSO’s sound file formats?",
+                "Answer":"FSO uses OGG or WAV files for sound and music."
+            },
+            {
+                "Question":"What are FSO’s image file formats?",
+                "Answer":"FSO can use .jpg .png .dds .pcx and .tga image formats, but the highly preferred image format for in-game model textures is the appropriate dds format. .png is most often used for static UI images."
+            },
+            {
+                "Question":"What are FSO’s animation and video file formats?",
+                "Answer":".mve .msb .ogg .mp4 .srt .webm .png (apng) are all valid video files for FSO. We support apng files if their extension is .png.  .eff can also be used and is a special kind of “image format” which uses a set of regular images and creates an animation from them."
+            },
+            {
+                "Question":"Does FSO support model animations?",
+                "Answer":"Yes, animations are supported via the animation table file format.  We support rotation, translation and IK animations.  We do not support mesh deformation.  Please see the geomod question below."
+            }
+        ]
+    }
+
+]
