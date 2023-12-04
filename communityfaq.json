@@ -107,7 +107,7 @@
             },
             {
                 "Question":"What are FSO’s animation and video file formats?",
-                "Answer":".mve .msb .ogg .mp4 .srt .webm .png (apng) are all valid video files for FSO. We support apng files if their extension is .png.  .eff can also be used and is a special kind of 'animation' format which uses a set of regular images and a text file to create an animation ."
+                "Answer":".mve .msb .ogg .mp4 .srt .webm .png (apng) are all valid video files for FSO. We support apng files if their extension is .png.  .eff can also be used and is a special kind of 'animation' format which uses a set of regular images and a text file to create an animation."
             },
             {
                 "Question":"Does FSO support model animations?",
