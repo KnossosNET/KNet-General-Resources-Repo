@@ -12,7 +12,7 @@
             },
             {
                 "Question": "Do I need to buy Freespace to play?",
-                "Answer": "Mods based on Freespace’s retail data, like the MediaVPs, require a copy of Freespace 2 to function, which can be purchased via Gog or Steam. Total Conversions (TCs) can be played without retail Freespace files."
+                "Answer": "Mods based on Freespace 2, like the MediaVPs, require a copy of Freespace 2 to function, which can be purchased via Gog or Steam. Total Conversions (TCs) can be played without purchasing a copy."
             },
             {
                 "Question":"Why is this launcher called Knossos?",
@@ -38,7 +38,7 @@
             },
             {
                 "Question":"What is a Total Conversion?",
-                "Answer":"A Total Conversion is a mod that is a standalone game based on the FSO engine.  These can be fan games or original universes.  Examples include Diaspora, Star Fox: Event Horizon, and Wings of Dawn.  Their play style can vary wildly from Retail Freespace 2."
+                "Answer":"A Total Conversion is a mod that is a standalone game based on the FSO engine.  These can be fan games or original universes.  Examples include Diaspora, Star Fox: Event Horizon, and Wings of Dawn.  Their play style can vary wildly from original Freespace 2."
             },
             {
                 "Question":"What controllers does FSO support?  How many can be used at once?",
