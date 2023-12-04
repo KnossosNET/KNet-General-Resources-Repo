@@ -49,7 +49,11 @@
                 "Answer":"Limited VR support via OpenXR is slated for FSO 24.0. Until then, test builds are available here on knossos in the Engine tab under “Custom Builds”."
             },
             {
-                "Question":"What order should I play FSO mods in?",
+                "Question":"What games are included in the original story line?",
+                "Answer":"The original games are Freespace 1, Silent Threat, and Freespace 2.  Silent Threat is an expansion of Freespace 1 and has since been heavily upgraded to Silent Threat: Reborn.  We do not recommend playing the original Silent Threat.  Freespace 2 did not have an expansion."
+            },
+            {
+                "Question":"What mods should I play first?",
                 "Answer":"Freespace Port (Freespace 1) and Freespace 2 are a good place to start, since they are designed to be accessible to new players and have good training missions.  After that we recommend asking the community on our discord.  We can provide recommendations based on what type of campaign you want to play."
             },
             {
