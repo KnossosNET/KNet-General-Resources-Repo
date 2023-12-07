@@ -3,20 +3,20 @@
         "Name":"Community",
         "Questions":[
             {
-                "Question":"What is Freespace?",
-                "Answer":"Freespace is a short series of video games created by Volition.  The source code for the second game was released in 2003 and has been worked on ever since."
+                "Question":"What is FreeSpace?",
+                "Answer":"FreeSpace is a short series of video games created by Volition.  The source code for the second game was released in 2003 and has been worked on ever since."
             },
             {
                 "Question": "What is FSO?",
-                "Answer": "FSO stands for FreeSpace Open, the open source branch of the original source code released by Volition when they realized they wouldn’t be able to make another Freespace game."
+                "Answer": "FSO stands for FreeSpace Open, the open source branch of the original source code released by Volition when they realized they wouldn’t be able to make another FreeSpace game."
             },
             {
-                "Question": "Do I need to buy Freespace to play?",
-                "Answer": "Mods based on Freespace 2, like the MediaVPs, require a copy of Freespace 2 to function, which can be purchased via Gog or Steam. Total Conversions (TCs) can be played without purchasing a copy."
+                "Question": "Do I need to buy FreeSpace to play?",
+                "Answer": "Mods based on FreeSpace 2, like the MediaVPs, require a copy of FreeSpace 2 to function, which can be purchased via Gog or Steam. Total Conversions (TCs) can be played without purchasing a copy."
             },
             {
                 "Question":"Why is this launcher called Knossos?",
-                "Answer":"Knossos is the name of something plot related in the Freespace games."
+                "Answer":"Knossos is the name of something plot related in the FreeSpace games."
             },
             {
                 "Question":"What happened to old Knossos?",
@@ -38,7 +38,7 @@
             },
             {
                 "Question":"What is a Total Conversion?",
-                "Answer":"A Total Conversion is a mod that is a standalone game based on the FSO engine.  These can be fan games or original universes.  Examples include Diaspora, Star Fox: Event Horizon, and Wings of Dawn.  Their play style can vary wildly from original Freespace 2."
+                "Answer":"A Total Conversion is a mod that is a standalone game based on the FSO engine.  These can be fan games or original universes.  Examples include Diaspora, Star Fox: Event Horizon, and Wings of Dawn.  Their play style can vary wildly from original FreeSpace 2."
             },
             {
                 "Question":"What controllers does FSO support?  How many can be used at once?",
@@ -50,11 +50,11 @@
             },
             {
                 "Question":"What games are included in the original story line?",
-                "Answer":"The original games are Freespace 1, Silent Threat, and Freespace 2.  Silent Threat is an expansion of Freespace 1 and has since been heavily upgraded to Silent Threat: Reborn.  We do not recommend playing the original Silent Threat.  Freespace 2 did not have an expansion."
+                "Answer":"The original games are FreeSpace 1, Silent Threat, and FreeSpace 2.  Silent Threat is an expansion of FreeSpace 1 and has since been heavily upgraded to Silent Threat: Reborn.  We do not recommend playing the original Silent Threat.  FreeSpace 2 did not have an expansion."
             },
             {
                 "Question":"What mods should I play first?",
-                "Answer":"Freespace Port (Freespace 1) and Freespace 2 are a good place to start, since they are designed to be accessible to new players and have good training missions.  After that we recommend asking the community on our discord.  We can provide recommendations based on what type of campaign you want to play."
+                "Answer":"FreeSpace Port (FreeSpace 1) and FreeSpace 2 are a good place to start, since they are designed to be accessible to new players and have good training missions.  After that we recommend asking the community on our discord.  We can provide recommendations based on what type of campaign you want to play."
             },
             {
                 "Question":"Can I play as a capital ship?",
@@ -79,7 +79,7 @@
             },
             {
                 "Question":"What is Fred?",
-                "Answer":"Fred is the FReespace EDitor, used in making missions and campaigns for the Freespace Open Engine.  It is based on the original mission editor designed by Volition."
+                "Answer":"Fred is the FReespace EDitor, used in making missions and campaigns for the FreeSpace Open Engine.  It is based on the original mission editor designed by Volition."
             },
             {
                 "Question":"What is qtFred?",
