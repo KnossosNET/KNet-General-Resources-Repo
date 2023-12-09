@@ -4,15 +4,15 @@
         "Questions":[
             {
                 "Question":"What is FreeSpace?",
-                "Answer":"FreeSpace is a short series of video games created by Volition.  The source code for the second game was released in 2003 and has been worked on ever since."
+                "Answer":"FreeSpace is a series of video games created by Volition.  The source code for FreeSpace 2 was released in 2002 and has been worked on ever since."
             },
             {
                 "Question": "What is FSO?",
-                "Answer": "FSO stands for FreeSpace Open, the open source branch of the original source code released by Volition when they realized they wouldn’t be able to make another FreeSpace game."
+                "Answer": "FSO stands for FreeSpace Open, the open source branch of the original source code released by Volition."
             },
             {
                 "Question": "Do I need to buy FreeSpace to play?",
-                "Answer": "Mods based on FreeSpace 2, like the MediaVPs, require a copy of FreeSpace 2 to function, which can be purchased via Gog or Steam. Total Conversions (TCs) can be played without purchasing a copy."
+                "Answer": "Mods based on FreeSpace 2, like the MediaVPs, require a copy of FreeSpace 2 to function, which can be purchased via Gog or Steam.  Total Conversions (TCs) can be played without purchasing a copy."
             },
             {
                 "Question":"Why is this launcher called Knossos?",
@@ -20,12 +20,12 @@
             },
             {
                 "Question":"What happened to old Knossos?",
-                "Answer":"There were some fundamental issues in the manner it was implemented.  In the end, ShivanSPS created Knossos.NET (KNet for short) to replace it as a project to learn Avalonia UI and provide a new launcher for us."
+                "Answer":"The old version of Knossos was not designed to handle a large number of mods and was also difficult to maintain.  ShivanSPS created Knossos.NET (KNet for short) to fix some of the shortcomings of the original and to learn Avalonia UI."
             
             },
             {
                 "Question":"What is PXO?",
-                "Answer":"PXO is a multiplayer matchmaking service.  It stands for Parallax Online and is modeled after the original Parallax Online created by Parallax the predecessor of Volition and Outrage."
+                "Answer":"PXO is a multiplayer matchmaking service.  It stands for Parallax Online and is modeled after the original Parallax Online created by Parallax, the predecessor of Volition and Outrage."
             }
         ]
     },
@@ -34,11 +34,11 @@
         "Questions":[
             {
                 "Question":"How do I play with shiny new models and textures?",
-                "Answer":"The upgraded models and textures are in the FSPort MediaVPs and MediaVPs mods."
+                "Answer":"The upgraded models and textures are in the FreeSpace Port MediaVPs and Freespace Upgrade MediaVPs mods."
             },
             {
                 "Question":"What is a Total Conversion?",
-                "Answer":"A Total Conversion is a mod that is a standalone game based on the FSO engine.  These can be fan games or original universes.  Examples include Diaspora, Star Fox: Event Horizon, and Wings of Dawn.  Their play style can vary wildly from original FreeSpace 2."
+                "Answer":"A Total Conversion is a mod that is uses the FreeSpace Open engine but does not require any files from any of the FreeSpace games.  Total Conversions can be fan games or original universes.  Examples include Diaspora, Star Fox: Event Horizon, and Wings of Dawn.  Their play style can vary wildly from original FreeSpace 2."
             },
             {
                 "Question":"What controllers does FSO support?  How many can be used at once?",
@@ -46,19 +46,19 @@
             },
             {
                 "Question":"Does FSO support VR?",
-                "Answer":"Limited VR support via OpenXR is slated for FSO 24.0. Until then, test builds are available here on knossos in the Engine tab under “Custom Builds”."
+                "Answer":"Limited VR support via OpenXR will be available in FSO 24.0.  Until then, test builds are available in the Engine tab under “Custom Builds”."
             },
             {
                 "Question":"What games are included in the original story line?",
-                "Answer":"The original games are FreeSpace 1, Silent Threat, and FreeSpace 2.  Silent Threat is an expansion of FreeSpace 1 and has since been heavily upgraded to Silent Threat: Reborn.  We do not recommend playing the original Silent Threat.  FreeSpace 2 did not have an expansion."
+                "Answer":"The original games are FreeSpace 1, Silent Threat, and FreeSpace 2.  Silent Threat is an expansion pack for FreeSpace 1 and has since been heavily upgraded in the fan-made Silent Threat: Reborn.  We do not recommend playing the original Silent Threat.  FreeSpace 2 did not have an expansion."
             },
             {
                 "Question":"What mods should I play first?",
-                "Answer":"FreeSpace Port (FreeSpace 1) and FreeSpace 2 are a good place to start, since they are designed to be accessible to new players and have good training missions.  After that we recommend asking the community on our discord.  We can provide recommendations based on what type of campaign you want to play."
+                "Answer":"FreeSpace Port (FreeSpace 1) and FreeSpace 2 are good places to start, since they are designed to be accessible to new players and have good training missions.  After that we recommend asking the community on our Discord.  We can provide recommendations based on what type of campaign you want to play."
             },
             {
                 "Question":"Can I play as a capital ship?",
-                "Answer":"There are mods with capital ship command missions, but they are not as common.  The Blade Itself, part of Blue Planet Complete, and Blue Planet: The Battle Captains are two mods where capital ship command missions can be played."
+                "Answer":"There are mods with capital ship command missions, but they are not common.  The Blade Itself, part of Blue Planet Complete, and Blue Planet: The Battle Captains are two mods where capital ship command missions can be played."
             },
             {
                 "Question":"Why are there so many controls?  Do I need to learn all of them?  Why do some mods not have all of them?",
@@ -75,27 +75,27 @@
             },
             {
                 "Question":"How do I make missions and campaigns?",
-                "Answer":"Missions can be created in Fred, our mission editor, and hopefully in the future with qtFRED.  The mission file is also in text format, so experienced mission creators can make edits to existing missions by hand, when needed."
+                "Answer":"Missions can be created in FRED, our mission editor, and hopefully in the future with qtFRED.  A mission file is a human-readable text file, so experienced mission creators can make edits to existing missions via text editor, when needed."
             },
             {
-                "Question":"What is Fred?",
-                "Answer":"Fred is the FReespace EDitor, used in making missions and campaigns for the FreeSpace Open Engine.  It is based on the original mission editor designed by Volition."
+                "Question":"What is FRED?",
+                "Answer":"FRED is the FReespace EDitor, used in making missions and campaigns for the FreeSpace Open engine.  The first versions of FRED were developed by Volition."
             },
             {
-                "Question":"What is qtFred?",
-                "Answer":"qtFred is an in-development rewrite of Fred using the cross-platform qt framework.  It is about halfway complete."
+                "Question":"What is qtFRED?",
+                "Answer":"qtFRED is an in-development rewrite of FRED using the cross-platform Qt framework.  It is about halfway complete."
             },
             {
-                "Question":"What are sexps?",
-                "Answer":"Sexps are symbolic expressions, the original mission and campaign action language.  Sexps are lisp-like and very powerful. You can also define custom variables and containers with them."
+                "Question":"What are SEXPs?",
+                "Answer":"SEXPs, or s-exps (symbolic expressions), are the building blocks for the gameplay logic in FreeSpace missions and campaigns.  SEXPs are adapted from the language Lisp and are very powerful.  Numerous SEXP operators have been added to the original basic collection implemented by Volition."
             },
             {
-                "Question":"What is FSO LUA?",
-                "Answer":"Our engine’s scripts are written in Lua, and it can be used to greatly increase the capabilities of the engine without waiting for native code support."
+                "Question":"What is Lua?",
+                "Answer":"Lua is a full-fledged scripting language, distinct from FSO, but FSO provides ways for Lua to interface with it.  Scripts written in Lua can be added to mods to greatly increase the capabilities of the engine."
             },
             {
-                "Question":"Does FSO support planet side missions?",
-                "Answer":"First of all, with scripting all things are possible, so write that down. There are some mods with ground levels or levels with a planet landscape, but they generally require much more work to finish."
+                "Question":"Does FSO support planet-side missions?",
+                "Answer":"First of all, with scripting all things are possible, so write that down.  There are some mods with ground levels or levels with a planet landscape, but they generally require much more work to finish."
             },
             {
                 "Question":"What are FSO’s model file formats?",
@@ -103,7 +103,7 @@
             },
             {
                 "Question":"What are FSO’s sound file formats?",
-                "Answer":"FSO uses OGG or WAV files for sound and music."
+                "Answer":"FSO supports OGG and WAV formats for sound and music."
             },
             {
                 "Question":"What are FSO’s image file formats?",
@@ -115,7 +115,7 @@
             },
             {
                 "Question":"Does FSO support model animations?",
-                "Answer":"Yes, animations are supported via the animation table.  We support rotation, translation and IK animations.  We do not support mesh deformation."
+                "Answer":"Yes, animations are supported via the animation table.  We support rotation, translation and IK (inverse kinematic) animations.  We do not support mesh deformation."
             }
         ]
     }
