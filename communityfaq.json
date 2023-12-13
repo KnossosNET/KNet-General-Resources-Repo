@@ -90,7 +90,7 @@
                 "Answer":"SEXPs, or s-exps (symbolic expressions), are the building blocks for the gameplay logic in FreeSpace missions and campaigns.  SEXPs are adapted from the language Lisp and are very powerful.  Numerous SEXP operators have been added to the original basic collection implemented by Volition."
             },
             {
-                "Question":"What is Lua?",
+                "Question":"What is Lua, and how does FSO use it?",
                 "Answer":"Lua is a full-fledged scripting language, distinct from FSO, but FSO provides ways for Lua to interface with it.  Scripts written in Lua can be added to mods to greatly increase the capabilities of the engine."
             },
             {
