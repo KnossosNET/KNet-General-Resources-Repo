@@ -1,6 +1,6 @@
 [
 	{
-		"Typename": "General"
+		"Typename" : "General",
 		"Filters" : [
 			{
 				"Filter": "General",
@@ -19,7 +19,7 @@
 
 	},
 	{
-		"Typename": "AI"
+		"Typename" : "AI",
 		"Filters" : [
 			{
 				"Filter": "AI",
@@ -32,7 +32,7 @@
 		]
 	},
 	{
-		"Typename": "Graphics"
+		"Typename" : "Graphics",
 		"Filters" : [
 			{
 				"Filter": "OpenGL",
@@ -94,7 +94,7 @@
 
 	},
 	{
-		"Typename": "Gameplay"
+		"Typename" : "Gameplay",
 		"Filters" : [
 			{
 				"Filter": "Beam",
@@ -120,7 +120,7 @@
 
 	},
 	{
-		"Typename": "Mission Internals"
+		"Typename" : "Mission Internals",
 		"Filters" : [
 			{
 				"Filter": "SEXP",
@@ -141,7 +141,7 @@
 
 
 	{
-		"Typename": "Sound"
+		"Typename" : "Sound",
 		"Filters" : [
 			{
 				"Filter": "EVENTMUSIC",
@@ -158,10 +158,8 @@
 		]
 
 	},
-
-
 	{
-		"Typename": "User Interface"
+		"Typename" : "User Interface",
 		"Filters" : [
 			{
 				"Filter": "UI",
@@ -179,7 +177,7 @@
 
 	},
 	{
-		"Typename": "Controls"
+		"Typename" : "Controls",
 		"Filters" : [
 			{
 				"Filter": "Joystick",
@@ -189,7 +187,7 @@
 
 	},
 	{
-		"Typename": "Models"
+		"Typename" : "Models",
 		"Filters" : [
 			{
 				"Filter": "Model",
@@ -198,7 +196,7 @@
 		]
 	},
 	{
-		"Typename": "Fred"
+		"Typename" : "Fred",
 		"Filters" : [
 			{
 				"Filter": "Fred routing",
@@ -210,7 +208,7 @@
 
 
 	{
-		"Typename": "Multiplayer"
+		"Typename" : "Multiplayer",
 		"Filters" : [
 			{
 				"Filter": "portfwd",
@@ -224,7 +222,7 @@
 
 	},
 	{
-		"Typename": "Scripting"
+		"Typename" : "Scripting",
 		"Filters" : [
 			{
 				"Filter": "Scripting",
@@ -234,7 +232,7 @@
 
 	},
 	{
-		"Typename": "Low Level Systems"
+		"Typename" : "Low Level Systems",
 		"Filters" : [
 			{
 				"Filter": "Paging",
@@ -260,7 +258,7 @@
 
 	},
 	{
-		"Typename": "Historia Obscura"
+		"Typename" : "Historia Obscura",
 		"Filters" : [
 			{
 				"Filter": "Allender",
