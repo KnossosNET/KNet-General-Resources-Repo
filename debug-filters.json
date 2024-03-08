@@ -1,0 +1,283 @@
+[
+	{
+		"Typename": "General"
+		"Filters" : [
+			{
+				"Filter": "General",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Warning",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Error",
+				"Description: "TBW"
+			},
+
+		]
+
+	},
+	{
+		"Typename": "AI"
+		"Filters" : [
+			{
+				"Filter": "AI",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Lethality",
+				"Description: "TBW"
+			}
+		]
+	},
+	{
+		"Typename": "Graphics"
+		"Filters" : [
+			{
+				"Filter": "OpenGL",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "shaders",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "ShaderCache",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "OpenGL Debug",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "SHADER-DEBUG",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "ANI",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "BMPMAN",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "BmpInfo",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "BMP DEBUG",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "apng",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "PNG warning",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "AB TRAIL",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Maps",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "lightning",
+				"Description: "TBW"
+			}
+		]
+
+	},
+	{
+		"Typename": "Gameplay"
+		"Filters" : [
+			{
+				"Filter": "Beam",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Countermeasures",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Wash",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Waypoints",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Physics",
+				"Description: "TBW"
+			}
+		]
+
+	},
+	{
+		"Typename": "Mission Internals"
+		"Filters" : [
+			{
+				"Filter": "SEXP",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "missionlog",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Messaging",
+				"Description: "TBW"
+			}
+		]
+
+	},
+
+
+
+	{
+		"Typename": "Sound"
+		"Filters" : [
+			{
+				"Filter": "EVENTMUSIC",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Sound",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "OpenAL",
+				"Description: "TBW"
+			}
+		]
+
+	},
+
+
+	{
+		"Typename": "User Interface"
+		"Filters" : [
+			{
+				"Filter": "UI",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "XSTR",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "HUD",
+				"Description: "TBW"
+			}
+		]
+
+	},
+	{
+		"Typename": "Controls"
+		"Filters" : [
+			{
+				"Filter": "Joystick",
+				"Description: "TBW"
+			}
+		]
+
+	},
+	{
+		"Typename": "Models"
+		"Filters" : [
+			{
+				"Filter": "Model",
+				"Description: "TBW"
+			}
+		]
+	},
+	{
+		"Typename": "Fred"
+		"Filters" : [
+			{
+				"Filter": "Fred routing",
+				"Description: "TBW"
+			}
+		]
+
+	},
+
+
+	{
+		"Typename": "Multiplayer"
+		"Filters" : [
+			{
+				"Filter": "portfwd",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Network",
+				"Description: "TBW"
+			}
+		]
+
+	},
+	{
+		"Typename": "Scripting"
+		"Filters" : [
+			{
+				"Filter": "Scripting",
+				"Description: "TBW"
+			}
+		]
+
+	},
+	{
+		"Typename": "Low Level Systems"
+		"Filters" : [
+			{
+				"Filter": "Paging",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "CFileDebug",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Registry",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Parse",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "SDL",
+				"Description: "TBW"
+			}
+		]
+
+	},
+	{
+		"Typename": "Historia Obscura"
+		"Filters" : [
+			{
+				"Filter": "Allender",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Allen",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Jim",
+				"Description: "TBW"
+			},
+			{
+				"Filter": "Sandeep",
+				"Description: "TBW"
+			}
+		]
+	}
+]
