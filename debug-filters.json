@@ -4,15 +4,15 @@
 		"Filters" : [
 			{
 				"Filter": "General",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Warning",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Error",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 
 		]
@@ -23,11 +23,11 @@
 		"Filters" : [
 			{
 				"Filter": "AI",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Lethality",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 	},
@@ -36,59 +36,59 @@
 		"Filters" : [
 			{
 				"Filter": "OpenGL",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "shaders",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "ShaderCache",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "OpenGL Debug",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "SHADER-DEBUG",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "ANI",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "BMPMAN",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "BmpInfo",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "BMP DEBUG",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "apng",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "PNG warning",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "AB TRAIL",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Maps",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "lightning",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -98,23 +98,23 @@
 		"Filters" : [
 			{
 				"Filter": "Beam",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Countermeasures",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Wash",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Waypoints",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Physics",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -124,15 +124,15 @@
 		"Filters" : [
 			{
 				"Filter": "SEXP",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "missionlog",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Messaging",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -145,15 +145,15 @@
 		"Filters" : [
 			{
 				"Filter": "EVENTMUSIC",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Sound",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "OpenAL",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -165,15 +165,15 @@
 		"Filters" : [
 			{
 				"Filter": "UI",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "XSTR",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "HUD",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -183,7 +183,7 @@
 		"Filters" : [
 			{
 				"Filter": "Joystick",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -193,7 +193,7 @@
 		"Filters" : [
 			{
 				"Filter": "Model",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 	},
@@ -202,7 +202,7 @@
 		"Filters" : [
 			{
 				"Filter": "Fred routing",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -214,11 +214,11 @@
 		"Filters" : [
 			{
 				"Filter": "portfwd",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Network",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -228,7 +228,7 @@
 		"Filters" : [
 			{
 				"Filter": "Scripting",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -238,23 +238,23 @@
 		"Filters" : [
 			{
 				"Filter": "Paging",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "CFileDebug",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Registry",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Parse",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "SDL",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 
@@ -264,19 +264,19 @@
 		"Filters" : [
 			{
 				"Filter": "Allender",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Allen",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Jim",
-				"Description: "TBW"
+				"Description": "TBW"
 			},
 			{
 				"Filter": "Sandeep",
-				"Description: "TBW"
+				"Description": "TBW"
 			}
 		]
 	}
