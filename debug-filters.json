@@ -4,15 +4,15 @@
 		"Filters" : [
 			{
 				"Filter": "General",
-				"Description": "TBW"
+				"Description": "General debugging info, enabled by default"
 			},
 			{
 				"Filter": "Warning",
-				"Description": "TBW"
+				"Description": "General warnings that appear in the debug log, enabled by default"
 			},
 			{
 				"Filter": "Error",
-				"Description": "TBW"
+				"Description": "Logging info for non-fatal errors, enabled by default"
 			}
 
 		]
@@ -23,7 +23,7 @@
 		"Filters" : [
 			{
 				"Filter": "AI",
-				"Description": "TBW"
+				"Description": "Log info about general AI behavior"
 			},
 			{
 				"Filter": "Lethality",
@@ -36,59 +36,59 @@
 		"Filters" : [
 			{
 				"Filter": "OpenGL",
-				"Description": "TBW"
-			},
-			{
-				"Filter": "shaders",
-				"Description": "TBW"
-			},
-			{
-				"Filter": "ShaderCache",
-				"Description": "TBW"
+				"Description": "Log info about our OpenGL based renderer"
 			},
 			{
 				"Filter": "OpenGL Debug",
-				"Description": "TBW"
+				"Description": "Log info about our OpenGL based renderer"
+			},
+			{
+				"Filter": "shaders",
+				"Description": "Log info about our FSO graphics rendering shaders"
 			},
 			{
 				"Filter": "SHADER-DEBUG",
-				"Description": "TBW"
+				"Description": "Log info about FSO grahpics rendering shaders"
+			},
+			{
+				"Filter": "ShaderCache",
+				"Description": "Log info about our graphics shader caching feature"
 			},
 			{
 				"Filter": "ANI",
-				"Description": "TBW"
+				"Description": "Log info about bitmap animations using the ani format"
 			},
 			{
 				"Filter": "BMPMAN",
-				"Description": "TBW"
+				"Description": "Log info about the FSO bitmap manager"
 			},
 			{
 				"Filter": "BmpInfo",
-				"Description": "TBW"
+				"Description": "Log info about bitmaps"
 			},
 			{
 				"Filter": "BMP DEBUG",
-				"Description": "TBW"
+				"Description": "Log info about bitmaps"
 			},
 			{
 				"Filter": "apng",
-				"Description": "TBW"
+				"Description": "Log info about animated PNGs"
 			},
 			{
 				"Filter": "PNG warning",
-				"Description": "TBW"
+				"Description": "Log info about PNGs"
 			},
 			{
 				"Filter": "AB TRAIL",
-				"Description": "TBW"
+				"Description": "Log info about afterburner trails"
 			},
 			{
 				"Filter": "Maps",
-				"Description": "TBW"
+				"Description": "Log info about textures in FSO"
 			},
 			{
 				"Filter": "lightning",
-				"Description": "TBW"
+				"Description": "Log info about nebula lightning strikes"
 			}
 		]
 
@@ -98,23 +98,19 @@
 		"Filters" : [
 			{
 				"Filter": "Beam",
-				"Description": "TBW"
+				"Description": "Log info about beams"
 			},
 			{
 				"Filter": "Countermeasures",
-				"Description": "TBW"
+				"Description": "Log info about ship countermeasures"
 			},
 			{
 				"Filter": "Wash",
-				"Description": "TBW"
+				"Description": "Log info about large ship engine wash"
 			},
 			{
 				"Filter": "Waypoints",
-				"Description": "TBW"
-			},
-			{
-				"Filter": "Physics",
-				"Description": "TBW"
+				"Description": "Log info about waypoints"
 			}
 		]
 
@@ -124,15 +120,15 @@
 		"Filters" : [
 			{
 				"Filter": "SEXP",
-				"Description": "TBW"
+				"Description": "Log info about our super-expression mission scripting language"
 			},
 			{
 				"Filter": "missionlog",
-				"Description": "TBW"
+				"Description": "Log info about our mission event log"
 			},
 			{
 				"Filter": "Messaging",
-				"Description": "TBW"
+				"Description": "Log info about our in game messaging"
 			}
 		]
 
@@ -145,15 +141,15 @@
 		"Filters" : [
 			{
 				"Filter": "EVENTMUSIC",
-				"Description": "TBW"
+				"Description": "Log info about event based music (Ship arrivals, objectives, etc.)"
 			},
 			{
 				"Filter": "Sound",
-				"Description": "TBW"
+				"Description": "Log info about sound"
 			},
 			{
 				"Filter": "OpenAL",
-				"Description": "TBW"
+				"Description": "Log info about use of the OpenAL sound library"
 			}
 		]
 
@@ -163,15 +159,15 @@
 		"Filters" : [
 			{
 				"Filter": "UI",
-				"Description": "TBW"
+				"Description": "Log info about user interface"
 			},
 			{
 				"Filter": "XSTR",
-				"Description": "TBW"
+				"Description": "Log info about translation strings"
 			},
 			{
 				"Filter": "HUD",
-				"Description": "TBW"
+				"Description": "Log info about the in-game heads-up-display"
 			}
 		]
 
@@ -181,7 +177,7 @@
 		"Filters" : [
 			{
 				"Filter": "Joystick",
-				"Description": "TBW"
+				"Description": "Log info about our joystick code"
 			}
 		]
 
@@ -191,7 +187,7 @@
 		"Filters" : [
 			{
 				"Filter": "Model",
-				"Description": "TBW"
+				"Description": "Log info about our 3D model code"
 			}
 		]
 	},
@@ -211,12 +207,12 @@
 		"Typename" : "Multiplayer",
 		"Filters" : [
 			{
-				"Filter": "portfwd",
-				"Description": "TBW"
+				"Filter": "Network",
+				"Description": "Log info about our multiplayer code (Warning! Verbose!)"
 			},
 			{
-				"Filter": "Network",
-				"Description": "TBW"
+				"Filter": "portfwd",
+				"Description": "Log info about port forwarding code"
 			}
 		]
 
@@ -226,7 +222,7 @@
 		"Filters" : [
 			{
 				"Filter": "Scripting",
-				"Description": "TBW"
+				"Description": "Log info about our LUA scripting implementation"
 			}
 		]
 
@@ -240,19 +236,23 @@
 			},
 			{
 				"Filter": "CFileDebug",
-				"Description": "TBW"
+				"Description": "Log info about our file reading code"
 			},
 			{
 				"Filter": "Registry",
-				"Description": "TBW"
+				"Description": "Log info about registry entry use"
 			},
 			{
 				"Filter": "Parse",
-				"Description": "TBW"
+				"Description": "Log info about our file parsing code"
 			},
 			{
 				"Filter": "SDL",
-				"Description": "TBW"
+				"Description": "Log info about our use of the SDL library"
+			},
+						{
+				"Filter": "Physics",
+				"Description": "Log info about our physics code"
 			}
 		]
 
@@ -261,20 +261,20 @@
 		"Typename" : "Historia Obscura",
 		"Filters" : [
 			{
-				"Filter": "Allender",
-				"Description": "TBW"
+				"Filter": "Allen",
+				"Description": "What year is it? It's me Allen."
 			},
 			{
-				"Filter": "Allen",
-				"Description": "TBW"
+				"Filter": "Allender",
+				"Description": "When Allen was really serious about debugging something and used his full name."
 			},
 			{
 				"Filter": "Jim",
-				"Description": "TBW"
+				"Description": "He's on the Debug Log, Jim!"
 			},
 			{
 				"Filter": "Sandeep",
-				"Description": "TBW"
+				"Description": "Join Sandeep's struggle to track down that weird joystick noise!"
 			}
 		]
 	}
