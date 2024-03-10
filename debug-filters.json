@@ -27,7 +27,7 @@
 			},
 			{
 				"Filter": "Lethality",
-				"Description": "TBW"
+				"Description": "Log info about how FSO measures how dangerous ships are to big and huge ships"
 			}
 		]
 	},
@@ -196,7 +196,7 @@
 		"Filters" : [
 			{
 				"Filter": "Fred routing",
-				"Description": "TBW"
+				"Description": "Log info for window management and state saving in FRED"
 			}
 		]
 
@@ -231,10 +231,6 @@
 		"Typename" : "Low Level Systems",
 		"Filters" : [
 			{
-				"Filter": "Paging",
-				"Description": "TBW"
-			},
-			{
 				"Filter": "CFileDebug",
 				"Description": "Log info about our file reading code"
 			},
@@ -253,6 +249,10 @@
 						{
 				"Filter": "Physics",
 				"Description": "Log info about our physics code"
+			},
+			{
+				"Filter": "Paging",
+				"Description": "Log info about paging image files into the bitmap manager"
 			}
 		]
 
@@ -261,20 +261,20 @@
 		"Typename" : "Historia Obscura",
 		"Filters" : [
 			{
-				"Filter": "Allen",
-				"Description": "What year is it? It's me Allen."
+				"Filter": "Alan",
+				"Description": "What *year* is it? ... It's me Alan. (Spheres, and mission briefing user interface debugging)"
 			},
 			{
 				"Filter": "Allender",
-				"Description": "When Allen was really serious about debugging something and used his full name."
+				"Description": "I want to break free. (Or the objects to be free, anyway)"
 			},
 			{
 				"Filter": "Jim",
-				"Description": "He's on the Debug Log, Jim!"
+				"Description": "He's dead, Jim!  He got hit by his own missile."
 			},
 			{
 				"Filter": "Sandeep",
-				"Description": "Join Sandeep's struggle to track down that weird joystick noise!"
+				"Description": "The struggle to track down that weird joystick noise..."
 			}
 		]
 	}
