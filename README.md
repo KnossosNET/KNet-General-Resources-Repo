@@ -2,5 +2,8 @@
 
 This repo allows Knossos to pull UI resources without having to push updates onto clients.
 
-So far all that is included is the FAQ section of the community tab.
+# Resources:
+
+- The FAQ section of the community tab
+- A list of debug log filters used by FSO
 
