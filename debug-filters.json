@@ -150,6 +150,10 @@
 			{
 				"Filter": "OpenAL",
 				"Description": "Log info about use of the OpenAL sound library"
+			},
+			{
+				"Filter": "Speech",
+				"Description": "Log info from text-to-speech (TTS) subsystem"
 			}
 		]
 
@@ -235,6 +239,10 @@
 				"Description": "Log info about our file reading code"
 			},
 			{
+				"Filter": "CFileSystem",
+				"Description": "Log extra info from low-level filesystem (file shadows, etc.)"
+			},
+			{
 				"Filter": "Registry",
 				"Description": "Log info about registry entry use"
 			},
@@ -253,6 +261,10 @@
 			{
 				"Filter": "Paging",
 				"Description": "Log info about paging image files into the bitmap manager"
+			},
+			{
+				"Filter": "Weapons",
+				"Description": "Log info about weapon asset pre-loading"
 			}
 		]
 
