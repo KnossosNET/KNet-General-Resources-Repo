@@ -1,14 +1,20 @@
 [
     {
         "modid": "S_ST_R",
-        "tags": [
+        "filters": [
             "fs1_mod"
+        ],
+		"tags": [
+            "str"
         ]
     },
     {
         "modid": "S_FS1",
-        "tags": [
+        "filters": [
             "fs1_mod"
+        ],
+		"tags": [
+            "fs1"
         ]
     }
 ]
