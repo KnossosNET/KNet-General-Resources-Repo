@@ -1,20 +1,1789 @@
 [
-    {
-        "modid": "S_ST_R",
-        "filters": [
-            "fs1_mod"
-        ],
-		"tags": [
-            "str"
-        ]
-    },
-    {
-        "modid": "S_FS1",
-        "filters": [
-            "fs1_mod"
-        ],
-		"tags": [
-            "fs1"
-        ]
-    }
+  {
+    "modid": "2gwpt2",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "158th_Exposition",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "AerilonIsBurning",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "A_Walk_in_the_Sun",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "BWO_Demo",
+    "filters": [
+      "fs2_mod",
+      "demo"
+    ]
+  },
+  {
+    "modid": "AncientShivanWar",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "BattlecruiserArchangel",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "Best_of_FS1",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "BolithoCommand",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "CtS",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "DWA2",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "DOSFull",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "DE",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "FSOTM",
+    "filters": [
+      "fs2_mod",
+	  "demo"
+    ]
+  },
+  {
+    "modid": "INCRSN",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "GOTYMissions",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "LCW",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "INFA",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "ItHoV",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Lightning_Marshal",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "OCaD",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Orumpur",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Procyon_Insurgency",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "PandorasBox",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "RR",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "screencam",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "FS1_VoiceRestoreMod",
+    "filters": [
+      "fs1_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "AftermathReboot",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "AftermathReboot2",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Escort_Duty",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "OM",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "SG",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "ShatteredStars_1",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "UITest",
+    "filters": [
+      "fs2_mod",
+      "test"
+    ]
+  },
+  {
+    "modid": "MVPS",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Mantle",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "VOTC_Serkr",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "WCIV_Demo",
+    "filters": [
+      "tc_mod",
+      "demo"
+    ]
+  },
+  {
+    "modid": "WallsClosing",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Team_Death_Match",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "fsport_recharged",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "aeos_affair",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "boomerang",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "awakenings",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "dem",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "etp_bugtest",
+    "filters": [
+      "fs2_mod",
+	  "test"
+    ]
+  },
+  {
+    "modid": "denebiii",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Diaspora_Release_Version",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "destinyofpeace",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "eyebleach",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "fsport",
+    "filters": [
+      "fs2_mod"
+    ],
+	"tags" : [
+		"fs1"
+	]
+  },
+  {
+    "modid": "FriendsandFoes",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "fsport-mediavps",
+    "filters": [
+      "fs1_mod",
+	  "asset_pack"
+    ],
+	"tags" : [
+		"fs1"
+	]
+  },
+  {
+    "modid": "Antagonist",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "gizeh",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "mlteset",
+    "filters": [
+      "fs2_mod",
+      "test"
+    ]
+  },
+  {
+    "modid": "jad223",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Enemies_United",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "shipinteriorsprojectfs1",
+    "filters": [
+      "fs1_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "dem1_5",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "rogues",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "searchforbosch",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "scroll",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "str",
+    "filters": [
+      "fs1_mod"
+    ],
+	"tags" : [
+	  "str"
+	]
+  },
+  {
+    "modid": "shumpspace",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "titan_rebellion",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "unchartedterritory",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "techsup",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "fs1coopup",
+    "filters": [
+      "fs1_mod",
+	  "multiplayer"
+    ]
+  },
+  {
+    "modid": "klavswc1ships",
+    "filters": [
+      "tc_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "fs2coopup",
+    "filters": [
+      "fs2_mod",
+	  "multiplayer"
+    ]
+  },
+  {
+    "modid": "UW",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "ATCP",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "wod",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "fsport_vi",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "GTCR",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "CCREW",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "ghost_revenants",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "strcoopup",
+    "filters": [
+      "fs1_mod",
+	  "multiplayer"
+    ]
+  },
+  {
+    "modid": "DESP",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "wargames",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "MjnMHs",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "NBS",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "cardinalspear",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "ntvdemo",
+    "filters": [
+      "fs2_mod",
+	  "demo"
+    ]
+  },
+  {
+    "modid": "railbombers",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "4K_HUD",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "MT_Dump",
+    "filters": [
+      "fs2_mod",
+	  "demo"
+    ]
+  },
+  {
+    "modid": "shv",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Stress_Test_Multi_With_Silly_mission",
+    "filters": [
+      "fs2_mod",
+      "multiplayer",
+      "test",
+      "utility"
+    ]
+  },
+  {
+    "modid": "SandyMod",
+    "filters": [
+      "fs2_mod",
+	  "test"
+    ]
+  },
+  {
+    "modid": "ross128",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "BtRL",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "Adversary",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "BemCavalgar",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "frontlines",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "BurningHeaven",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "twilight",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Homesick",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Ridiculous",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Transcend",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "fs2_demo",
+    "filters": [
+      "fs2_mod",
+      "demo"
+    ]
+  },
+  {
+    "modid": "ParticlesStressTesting",
+    "filters": [
+      "fs2_mod",
+      "test",
+      "utility"
+    ]
+  },
+  {
+    "modid": "rogues2020",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "TAVega",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "OGwod",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "selfgamers_radaricon",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "CP_m",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "itdoh",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "jds_fsport",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "HU_HUD_FS2",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "jds_fs2",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "StellarAssaultFSO",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "jds_derelict",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "CP_M_FS1",
+    "filters": [
+      "fs1_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "Solaris Racing",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "lostinthemist",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "onedaydeneb",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "RR_v144",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "cyrenevspsamtik",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "happynewyear",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "WMA-GTVA-Weapons",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "Windmills",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "jad2_21",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "jad",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "blueplanet_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "jad2_22",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "WMA-Marathon",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "qaz_1",
+    "filters": [
+      "fs2_mod",
+      "test"
+    ]
+  },
+  {
+    "modid": "system_madness",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "str_translation",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "fsport_translation",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "destinyofpeace_translation",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "hd-hud-bp",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "capshipcommandthing",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "AWF",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "AFLW",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "ACV",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "system_madness_ii",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "mdredux",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "STL",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Diaspora_Realistic_Flight_Stats_V2",
+    "filters": [
+      "tc_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "derelict_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "rogue",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "DWA1",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "warzone_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Tango",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "VOTCWolfeStory",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Eagle_Takes_Flight",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Shepherds",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "titan_rebellion_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "tombaugh_attack_cinematic",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Derelict",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "steadfast_dump",
+    "filters": [
+      "fs2_mod",
+	  "demo"
+    ]
+  },
+  {
+    "modid": "FallEpsilonPegasi",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Tev_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "wmm",
+    "filters": [
+      "fs2_mod",
+      "multiplayer"
+    ]
+  },
+  {
+    "modid": "Diaspora_Realistic_Flight_Stats_V2-02-Vet",
+    "filters": [
+      "tc_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "Diaspora_Realistic_Flight_Stats_V2-04-Nbi",
+    "filters": [
+      "tc_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "AFB",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Diaspora_Realistic_Flight_Stats_V2-03-Abl",
+    "filters": [
+      "tc_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "NewPath",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "NTF_Ship_Textures",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "itsatestnumbnuts",
+    "filters": [
+      "fs2_mod",
+      "test"
+    ]
+  },
+  {
+    "modid": "jds_blueplanet",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "jds-hdradaricons",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "SR_Cockpits",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Diaspora_Realistic_Flight_Stats_V2-01-Ace",
+    "filters": [
+      "tc_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "solaris_translation",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "battleforaltair",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Unholy_Alliance",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "vassagos_dirge",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "boonies",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "warzone",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "FallEpsilonPegasi_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "RetreatfromDenebCinematic",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "brshivans",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "jds_silentthreatreborn",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "stormfront1",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "TI",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "StormFront_AGW",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "FSPcustom",
+    "filters": [
+      "fs1_mod",
+	  "test"
+    ]
+  },
+  {
+    "modid": "Alcibades_Gamble",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "SeriesResurrecta",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "WC_Vega_Assault",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "BP_HudLight",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "fs2_org_demo",
+    "filters": [
+      "tc_mod",
+      "demo"
+    ]
+  },
+  {
+    "modid": "BpMultiHudLight",
+    "filters": [
+      "fs2_mod",
+	  "multiplayer",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "S_FS1_Fly",
+    "filters": [
+      "fs1_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "S_zoom2",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "S_ST_R",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "S_zoom1",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "WallsClosing_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "StormFrontStock",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "AftermathCE",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "BPBattleCaptainsGTVA",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Tev",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "jds-hdgenradaricons",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "descent",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Warmachine",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "S_FS1_CP",
+    "filters": [
+      "fs1_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "CSC-TM",
+    "filters": [
+      "fs2_mod",
+      "test"
+    ]
+  },
+  {
+    "modid": "MoGW-omni",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "TCS__Remake",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "BTA_Standalone",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "fs2b",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Reunion_Crisis_1",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Casualties_Of_War",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "dynmus",
+    "filters": [
+      "fs2_mod",
+      "utility"
+    ]
+  },
+  {
+    "modid": "VoiceRestoreMod",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Casualties_Of_war_2",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "First_Crusade",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "LDK",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Gateway",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Millennium",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Search_for_KnowledgePrologue",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "The_Enemy_from_the_Past",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "The_Regulus_Campaign",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "InfernoClassic",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "ExileITDW-translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Trinity",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Vortex",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Ghosts_of_Valor",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "ATO2",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Crucible",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "INFNostosEAFleetReborn",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "vr_mvps_fsport",
+    "filters": [
+      "fs1_mod",
+      "vr_mod"
+    ]
+  },
+  {
+    "modid": "ShipInteriorsProject",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "The_Pirates_of_Delta_Serpentis",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "The_Deuterium_Connection",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Toranks",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "LastStand",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "the_aftermath_ribos",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "sync_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "TopasMultiplayerBundle",
+    "filters": [
+      "fs2_mod",
+      "multiplayer"
+    ]
+  },
+  {
+    "modid": "The_Special_Operations_Command",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Abyss",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "shepherds_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Sol_A_History_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "JtEP",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "vassagos_dirge_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "bpchanticleer-translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "BPBattleCaptainsGTVA_translation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "vr_mvps",
+    "filters": [
+      "fs2_mod",
+      "vr_mod"
+    ]
+  },
+  {
+    "modid": "VRGC",
+    "filters": [
+      "fs2_mod",
+      "vr_mod"
+    ]
+  },
+  {
+    "modid": "darktexturespack",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "158th_Banshee_Squadron",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "TCS Inc",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Sync",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Knossos",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Inner_troublespart1",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Fury",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "SOC_Operation_Otara",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Operaton_Salvation",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "NTF_Saga_Episode_1_67th_Desperados",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "LegacyEpisode_1",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "NTF_Campaign_Part_1",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "black_horizon",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "Flames_of_War_2",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "STIG",
+    "filters": [
+      "fs2_mod",
+      "test"
+    ]
+  },
+  {
+    "modid": "Flames_of_War_1",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "SCPUI",
+    "filters": [
+      "fs2_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "BtA",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Tides_of_darkness",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "fscata",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "cyberspace",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "TBPv380_Realistic_Flight_Stats_V1c_Abl_v1100",
+    "filters": [
+      "tc_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "HW_Pilot_Academy",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "S_FS1",
+    "filters": [
+      "fs1_mod"
+    ]
+  },
+  {
+    "modid": "TBPv380_Realistic_Flight_Stats_V1c_Vet_v1100",
+    "filters": [
+      "tc_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "TBPv380_Realistic_Flight_Stats_V1c_Nbi_v1",
+    "filters": [
+      "tc_mod",
+	  "utility"
+    ]
+  },
+  {
+    "modid": "SoL",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "VC_remake_2024",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Sol_A_History_Upgraded",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "bpchanticleer",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "ExileITDW",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Original_Trilogy",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "WC_Border_Worlds",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "TBP",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "blueplanetcomplete",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "Wing_Commander_Saga",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "Solaris",
+    "filters": [
+      "tc_mod"
+    ]
+  },
+  {
+    "modid": "Blackwater_Operations_Dump",
+    "filters": [
+      "fs2_mod",
+	  "demo"
+    ]
+  },
+  {
+    "modid": "Inferno",
+    "filters": [
+      "fs2_mod"
+    ]
+  },
+  {
+    "modid": "SF_EH",
+    "filters": [
+      "tc_mod"
+    ]
+  }
 ]
