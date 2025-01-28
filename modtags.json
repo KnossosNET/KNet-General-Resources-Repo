@@ -28,6 +28,11 @@
     "filters": [
       "fs2_mod",
       "demo"
+    ],
+    "tags": [
+      "Black",
+      "Blackwater",
+      "Operations"
     ]
   },
   {
@@ -212,6 +217,13 @@
     "modid": "MVPS",
     "filters": [
       "fs2_mod"
+    ],
+    "tags": [
+     "updated",
+     "visual",
+     "upgrade",
+     "new",
+     "asset" 
     ]
   },
   {
@@ -312,7 +324,11 @@
       "fs2_mod"
     ],
 	"tags" : [
-		"fs1"
+		"fs1",
+    "descent",
+    "freespace",
+    "great",
+    "war"
 	]
   },
   {
@@ -328,7 +344,11 @@
 	  "asset_pack"
     ],
 	"tags" : [
-		"fs1"
+		"fs1",
+    "descent",
+    "freespace",
+    "great",
+    "war"
 	]
   },
   {
