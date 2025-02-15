@@ -176,7 +176,8 @@
     "modid": "FS1_VoiceRestoreMod",
     "filters": [
       "fs1_mod",
-	  "utility"
+      "utility",
+      "Asset_Pack"
     ]
   },
   {
@@ -225,7 +226,8 @@
   {
     "modid": "MVPS",
     "filters": [
-      "fs2_mod"
+      "fs2_mod",
+      "Asset_Pack"
     ],
     "tags": [
      "updated",
@@ -355,7 +357,7 @@
     "modid": "fsport-mediavps",
     "filters": [
       "fs1_mod",
-	  "asset_pack"
+  	  "asset_pack"
     ],
 	"tags" : [
 		"fs1",
@@ -400,7 +402,12 @@
     "modid": "shipinteriorsprojectfs1",
     "filters": [
       "fs1_mod",
-	  "utility"
+	    "utility",
+      "Asset_Pack"
+    ],
+    "tags":[
+      "cockpits",
+      "immersion"
     ]
   },
   {
@@ -559,7 +566,8 @@
     "modid": "MjnMHs",
     "filters": [
       "fs2_mod",
-	  "utility"
+      "Asset_Pack",
+      "Dependency"
     ]
   },
   {
@@ -584,14 +592,16 @@
   {
     "modid": "railbombers",
     "filters": [
-      "fs2_mod"
+      "fs2_mod",
+      "Asset_Pack"
     ]
   },
   {
     "modid": "4K_HUD",
     "filters": [
       "fs2_mod",
-	  "utility"
+	  "utility",
+    "Asset_Pack"
     ]
   },
   {
@@ -612,8 +622,7 @@
     "filters": [
       "fs2_mod",
       "multiplayer",
-      "test",
-      "utility"
+      "test"
     ]
   },
   {
@@ -889,7 +898,8 @@
     "modid": "hd-hud-bp",
     "filters": [
       "fs2_mod",
-	  "utility"
+      "utility",
+      "Asset_Pack"
     ]
   },
   {
@@ -1090,7 +1100,8 @@
     "modid": "NTF_Ship_Textures",
     "filters": [
       "fs2_mod",
-	  "utility"
+      "utility",
+      "Asset_Pack"
     ]
   },
   {
@@ -1238,7 +1249,8 @@
     "modid": "BP_HudLight",
     "filters": [
       "fs2_mod",
-	  "utility"
+      "utility",
+      "Asset_Pack"
     ]
   },
   {
@@ -1251,9 +1263,10 @@
   {
     "modid": "BpMultiHudLight",
     "filters": [
-      "fs2_mod",
-	  "multiplayer",
-	  "utility"
+        "fs2_mod",
+      "multiplayer",
+      "utility",
+      "Asset_Pack"
     ]
   },
   {
@@ -1404,7 +1417,8 @@
   {
     "modid": "VoiceRestoreMod",
     "filters": [
-      "fs2_mod"
+      "fs2_mod",
+      "Asset_Pack"
     ]
   },
   {
@@ -1501,7 +1515,8 @@
     "modid": "INFNostosEAFleetReborn",
     "filters": [
       "fs2_mod",
-	  "utility"
+      "utility",
+      "Asset_Pack"
     ]
   },
   {
@@ -1515,7 +1530,12 @@
     "modid": "ShipInteriorsProject",
     "filters": [
       "fs2_mod",
-	  "utility"
+	    "utility",
+      "Asset_Pack"
+    ],
+    "tags": [
+      "cockpits",
+      "immersion"
     ]
   },
   {
@@ -1627,7 +1647,8 @@
     "modid": "darktexturespack",
     "filters": [
       "fs2_mod",
-	  "utility"
+      "utility",
+      "Asset_Pack"
     ]
   },
   {
@@ -1855,7 +1876,8 @@
     "modid": "Blackwater_Operations_Dump",
     "filters": [
       "fs2_mod",
-	  "demo"
+	    "demo",
+      "Asset_Pack"
     ]
   },
   {
