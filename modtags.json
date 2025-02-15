@@ -1272,7 +1272,8 @@
     "modid": "descent",
     "filters": [
       "fs2_mod",
-      "Asset_Pack"
+      "Asset_Pack",
+      "demo"
     ],
     "tags": [
      "pyro",
