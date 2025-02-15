@@ -15,6 +15,11 @@
     "modid": "AerilonIsBurning",
     "filters": [
       "tc_mod"
+    ],
+    "tags":[
+      "battlestar",
+      "galactica",
+      "cylons"
     ]
   },
   {
@@ -308,6 +313,11 @@
     "modid": "Diaspora_Release_Version",
     "filters": [
       "tc_mod"
+    ],
+    "tags":[
+      "battlestar",
+      "galactica",
+      "cylons"
     ]
   },
   {
@@ -929,6 +939,11 @@
     "filters": [
       "tc_mod",
 	  "utility"
+    ],
+    "tags":[
+      "battlestar",
+      "galactica",
+      "cylons"
     ]
   },
   {
@@ -1028,6 +1043,11 @@
     "filters": [
       "tc_mod",
 	  "utility"
+    ],
+    "tags":[
+      "battlestar",
+      "galactica",
+      "cylons"
     ]
   },
   {
@@ -1035,6 +1055,11 @@
     "filters": [
       "tc_mod",
 	  "utility"
+    ],
+    "tags":[
+      "battlestar",
+      "galactica",
+      "cylons"
     ]
   },
   {
@@ -1048,6 +1073,11 @@
     "filters": [
       "tc_mod",
 	  "utility"
+    ],
+    "tags":[
+      "battlestar",
+      "galactica",
+      "cylons"
     ]
   },
   {
@@ -1094,6 +1124,11 @@
     "filters": [
       "tc_mod",
 	  "utility"
+    ],
+    "tags":[
+      "battlestar",
+      "galactica",
+      "cylons"
     ]
   },
   {
