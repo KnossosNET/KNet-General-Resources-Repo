@@ -44,6 +44,9 @@
     "modid": "AncientShivanWar",
     "filters": [
       "fs2_mod"
+    ],
+    "tags": [
+      "ancients"
     ]
   },
   {
@@ -616,7 +619,11 @@
     "modid": "MT_Dump",
     "filters": [
       "fs2_mod",
-	  "demo"
+	    "demo",
+      "Asset_Pack"
+    ],
+    "tags":[
+      "mt"
     ]
   },
   {
@@ -1761,6 +1768,9 @@
     "modid": "BtA",
     "filters": [
       "fs2_mod"
+    ],
+    "tags":[
+      "reconstruction"
     ]
   },
   {
@@ -1791,7 +1801,8 @@
   {
     "modid": "HW_Pilot_Academy",
     "filters": [
-      "fs2_mod"
+      "fs2_mod",
+      "tc_mod"
     ]
   },
   {
@@ -1866,6 +1877,10 @@
     "modid": "blueplanetcomplete",
     "filters": [
       "fs2_mod"
+    ],
+    "tags": [
+      "postcapella",
+      "fs3"
     ]
   },
   {
