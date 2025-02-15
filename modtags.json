@@ -1271,7 +1271,14 @@
   {
     "modid": "descent",
     "filters": [
-      "fs2_mod"
+      "fs2_mod",
+      "Asset_Pack"
+    ],
+    "tags": [
+     "pyro",
+     "gx",
+     "d1",
+     "d2" 
     ]
   },
   {
