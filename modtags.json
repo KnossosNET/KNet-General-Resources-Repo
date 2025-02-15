@@ -1270,6 +1270,10 @@
     "modid": "BPBattleCaptainsGTVA",
     "filters": [
       "fs2_mod"
+    ],
+    "tags": [
+      "capship",
+      "command"
     ]
   },
   {
