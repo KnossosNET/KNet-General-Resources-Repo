@@ -447,6 +447,14 @@
     "modid": "shumpspace",
     "filters": [
       "fs2_mod"
+    ],
+    "tags": [
+      "shoot",
+      "em",
+      "up",
+      "side",
+      "scroll",
+      "arcade"
     ]
   },
   {
