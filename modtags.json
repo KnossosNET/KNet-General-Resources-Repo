@@ -451,6 +451,9 @@
     "filters": [
       "fs1_mod",
 	  "multiplayer"
+    ],
+    "tags": [
+      "co-op"
     ]
   },
   {
@@ -465,7 +468,11 @@
     "filters": [
       "fs2_mod",
 	  "multiplayer"
+    ],
+    "tags": [
+      "co-op"
     ]
+
   },
   {
     "modid": "UW",
@@ -514,6 +521,12 @@
     "filters": [
       "fs1_mod",
 	  "multiplayer"
+    ],
+    "tags": [
+      "co-op",
+      "silent",
+      "threat",
+      "reborn"
     ]
   },
   {
