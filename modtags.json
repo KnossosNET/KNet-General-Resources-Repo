@@ -65,6 +65,10 @@
     "modid": "BolithoCommand",
     "filters": [
       "fs2_mod"
+    ],
+    "tags":[
+      "blue",
+      "planet"      
     ]
   },
   {
@@ -353,7 +357,14 @@
   {
     "modid": "FriendsandFoes",
     "filters": [
-      "fs2_mod"
+      "fs2_mod",
+      "Post_Capella"
+    ],
+    "tags":[
+      "Post",
+      "Capella",
+      "Blue",
+      "Planet"
     ]
   },
   {
@@ -1143,6 +1154,9 @@
     "modid": "SR_Cockpits",
     "filters": [
       "fs1_mod"
+    ],
+    "tags":[
+      "interior"
     ]
   },
   {
@@ -1377,6 +1391,10 @@
     "filters": [
       "fs1_mod",
 	  "utility"
+    ],
+    "tags":[
+      "interior",
+      "immersion"
     ]
   },
   {
@@ -1487,7 +1505,12 @@
   {
     "modid": "InfernoClassic",
     "filters": [
-      "fs2_mod"
+      "fs2_mod",
+      "Post_Capella"
+    ],
+    "tags":[
+      "Post",
+      "Capella"
     ]
   },
   {
@@ -1847,6 +1870,10 @@
     "modid": "bpchanticleer",
     "filters": [
       "fs2_mod"
+    ],
+    "tags":[
+      "blue",
+      "planet"
     ]
   },
   {
@@ -1906,7 +1933,23 @@
   {
     "modid": "Inferno",
     "filters": [
-      "fs2_mod"
+      "fs2_mod",
+      "Post_Capella"
+    ],
+    "tags":[
+      "Post",
+      "Capella"
+    ]
+  },
+  {
+    "modid": "bpgaia",
+    "filters": [
+      "fs2_mod",
+      "Post_Capella"
+    ],
+    "tags":[
+      "Post",
+      "Capella"
     ]
   },
   {
