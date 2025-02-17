@@ -371,7 +371,7 @@
     "modid": "fsport-mediavps",
     "filters": [
       "fs1_mod",
-  	  "asset_pack"
+  	  "Asset_Pack"
     ],
 	"tags" : [
 		"fs1",
