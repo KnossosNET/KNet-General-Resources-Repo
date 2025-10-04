@@ -1914,6 +1914,9 @@
     "modid": "Wing_Commander_Saga",
     "filters": [
       "tc_mod"
+    ],
+    "tags": [
+      "wcs"
     ]
   },
   {
