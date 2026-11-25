@@ -1,0 +1,17 @@
+[
+  {
+    "repo": "https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases",
+    "name": "StevenMX / Adreno-Tools-Drivers",
+    "compatibility": "Adreno"
+  },
+  {
+    "repo": "https://github.com/nihui/mesa-turnip-android-driver/releases",
+    "name": "nihui / mesa-turnip-android-driver",
+    "compatibility": "Adreno"
+  },
+  {
+    "repo": "https://github.com/zenithblue-oss/panvk-kbase-android/releases",
+    "name": "zenithblue-oss / panvk-kbase-android",
+    "compatibility": "Mali"
+  }
+]
